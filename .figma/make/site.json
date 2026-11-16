@@ -1,0 +1,10 @@
+{
+  "description": "A mobile merchant management app for Asian Store teams to manage product listings, inventory batches, store details, and role-based access.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
